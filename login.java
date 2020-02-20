@@ -10,3 +10,5 @@ first time
 developer changes
 sprint1 branch added
 dev branch changes
+today is wednesday
+2mro thursday
